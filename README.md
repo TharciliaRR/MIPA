@@ -1,6 +1,6 @@
-# A first-level heading  👋 MIPA - Chatbot de Etiqueta Social para Neuroatípicos 🧠
+# 👋 MIPA - Chatbot de Etiqueta Social para Neuroatípicos 🧠
 
-# Índice
+## Índice
 
 * Descrição do Projeto
 * Status do Projeto
@@ -12,38 +12,38 @@
 * Licença
 * Conclusão
 
-# Descrição do Projeto
+## Descrição do Projeto
 MIPA é um chatbot inovador projetado para auxiliar neuroatípicos nas interações sociais, fornecendo orientações claras e amigáveis sobre as regras de etiqueta social. 🧠🗣️
 Através de uma interface conversacional intuitiva, a MIPA responde a perguntas, oferece dicas e exemplos práticos para diversas situações sociais, ajudando os usuários a navegar com mais confiança e naturalidade no mundo social. 🤝
 
-# Status do Projeto
+## Status do Projeto
 🚧 Em Desenvolvimento
 O projeto MIPA está em fase inicial de desenvolvimento, com funcionalidades básicas implementadas. Estamos trabalhando continuamente para expandir suas capacidades e aprimorar a experiência do usuário.
 
-# Funcionalidades e Demonstração da Aplicação
+## Funcionalidades e Demonstração da Aplicação
 **Funcionalidades Atuais:**
 O chatbot responde a perguntas sobre regras de etiqueta social.
 Fornece exemplos práticos de como se comportar em diferentes situações sociais.
 Utiliza o modelo de linguagem Google Gemini para gerar respostas informativas e contextualmente relevantes.
 
-# Acesso ao Projeto
+## Acesso ao Projeto
 🛠️ O código fonte do projeto está disponível neste repositório GitHub .
 https://github.com/TharciliaRR/MIPA/blob/cb4816787cc5d98d7e2f600aa2498f1003b1d5ea/MIPA.ipynb
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 **Python: Linguagem de programação principal.**
 **Google Gemini: Modelo de linguagem avançado para geração de texto.**
 **Google Colab: Ambiente de desenvolvimento utilizado para o projeto.**
 
-# Pessoas Contribuidoras
+## Pessoas Contribuidoras
 [https://www.linkedin.com/in/tharciliarollemberg/]
-# Pessoas Desenvolvedoras do Projeto
+## Pessoas Desenvolvedoras do Projeto
 [https://www.linkedin.com/in/tharciliarollemberg]
-# Licença
+## Licença
 Este projeto está licenciado sob a licença gratuita do GOOGLE.
 
-# Conclusão
-O projeto MIPA tem como objetivo promover a inclusão social de neuroatípicos, empoderando-os com as ferramentas necessárias para navegar com segurança e confiança nas interações sociais.
+## Conclusão
+O projeto MIPA tem como objetivo promover a inclusão social de neuroatípicos, empoderando-os com as ferramentas necessárias para navegar com segurança e confiança nas interações sociais.Como pessoa autista que sou, eu sei o quanto é frsutante e complicado interagir e quero tornar essa tarefa mais leve. 
 Acreditamos que este projeto tem o potencial de gerar um impacto positivo na vida de muitas pessoas, contribuindo para um mundo mais inclusivo e compreensivo. 🌎❤️
 Convidamos você a se juntar a nós nesta missão! 🙏
 
