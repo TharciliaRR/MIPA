@@ -40,7 +40,7 @@ Google Colab: Ambiente de desenvolvimento utilizado para o projeto.
 # Pessoas Desenvolvedoras do Projeto
 [https://www.linkedin.com/in/tharciliarollemberg]
 # Licença
-Este projeto está licenciado sob a licença [Nome da Licença].
+Este projeto está licenciado sob a licença gratuita do GOOGLE.
 
 # Conclusão
 O projeto MIPA tem como objetivo promover a inclusão social de neuroatípicos, empoderando-os com as ferramentas necessárias para navegar com segurança e confiança nas interações sociais.
