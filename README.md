@@ -1,5 +1,5 @@
 # 👋 MIPA - Chatbot de Etiqueta Social para Neuroatípicos 🧠
-![GitHub Org's stars](https://github.com/TharciliaRR/MIPA/issues/1#issue-2290475183)
+![GitHub Org's stars](Estúdio Fotográfico Capa Facebook (1).png)
 
 # Índice
 
