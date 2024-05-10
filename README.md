@@ -26,11 +26,9 @@ O projeto MIPA está em fase inicial de desenvolvimento, com funcionalidades bá
 O chatbot responde a perguntas sobre regras de etiqueta social.
 Fornece exemplos práticos de como se comportar em diferentes situações sociais.
 Utiliza o modelo de linguagem Google Gemini para gerar respostas informativas e contextualmente relevantes.
-Demonstração:
-[Insira um link para um vídeo ou GIF demonstrando o chatbot em ação]
 
 # Acesso ao Projeto
-O código fonte do projeto está disponível neste repositório GitHub: [link para o repositório].
+O código fonte do projeto está disponível neste repositório GitHub .
 
 # Tecnologias utilizadas
 Python: Linguagem de programação principal.
@@ -38,11 +36,9 @@ Google Gemini: Modelo de linguagem avançado para geração de texto.
 Google Colab: Ambiente de desenvolvimento utilizado para o projeto.
 
 # Pessoas Contribuidoras
-[Liste as pessoas que contribuíram para o projeto, se houver]
-
+[https://www.linkedin.com/in/tharciliarollemberg/]
 # Pessoas Desenvolvedoras do Projeto
-[Liste as pessoas que desenvolveram o projeto]
-
+[https://www.linkedin.com/in/tharciliarollemberg]
 # Licença
 Este projeto está licenciado sob a licença [Nome da Licença].
 
@@ -50,7 +46,9 @@ Este projeto está licenciado sob a licença [Nome da Licença].
 O projeto MIPA tem como objetivo promover a inclusão social de neuroatípicos, empoderando-os com as ferramentas necessárias para navegar com segurança e confiança nas interações sociais.
 Acreditamos que este projeto tem o potencial de gerar um impacto positivo na vida de muitas pessoas, contribuindo para um mundo mais inclusivo e compreensivo. 🌎❤️
 Convidamos você a se juntar a nós nesta missão! 🙏
+
 # Código do Projeto
+
 **INSTALAÇÃO** 
 #Instalando o SDK do Google
 !pip install -q -U google-generativeai
