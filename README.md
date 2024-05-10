@@ -2,15 +2,15 @@
 
 # Índice
 
-*Descrição do Projeto
-*Status do Projeto
-*Funcionalidades e Demonstração da Aplicação
-*Acesso ao Projeto
-*Tecnologias utilizadas
-*Pessoas Contribuidoras
-*Pessoas Desenvolvedoras do Projeto
-*Licença
-*Conclusão
+* Descrição do Projeto
+* Status do Projeto
+* Funcionalidades e Demonstração da Aplicação
+* Acesso ao Projeto
+* Tecnologias utilizadas
+* Pessoas Contribuidoras
+* Pessoas Desenvolvedoras do Projeto
+* Licença
+* Conclusão
 
 # Descrição do Projeto
 MIPA é um chatbot inovador projetado para auxiliar neuroatípicos nas interações sociais, fornecendo orientações claras e amigáveis sobre as regras de etiqueta social. 🧠🗣️
