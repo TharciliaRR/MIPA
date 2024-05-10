@@ -49,10 +49,14 @@ Convidamos você a se juntar a nós nesta missão! 🙏
 # Código do Projeto
 
 **INSTALAÇÃO** 
+
 #Instalando o SDK do Google
 !pip install -q -U google-generativeai
 
+
 **Configurações iniciais**
+
+
 import google.generativeai as genai
 from google.colab import userdata
 api_key= userdata.get('SECRET_KEY')
@@ -76,9 +80,13 @@ model = genai.GenerativeModel(model_name='gemini-1.0-pro',
 
 
 **Iniciando o chat**
+
+
 chat = model.start_chat(history=[])
 
 **Melhorando a visualização**
+
+
 #código disponível em https://ai.google.dev/tutorials/python_quickistart#import_packages
 import textwrap
 from IPython.display import display
@@ -94,7 +102,11 @@ for message in chat.history:
                   display(to_markdown(f"**{message.role}**: {(message.parts[0]).text}"))
   print('___________________________________')
 
+  
+
 **Loop de interação**
+
+
 prompt = input('OLá! Sou a MIPA como posso te ajudar:')
 while prompt != "xau":
   response = chat.send_message(prompt)
@@ -104,9 +116,13 @@ prompt = input('Esperando prompt: ')
 
 
 **Instalando o SDK do Google**
+
+
 !pip install -q -U google-generativeai
 
 **Configurações iniciais**
+
+
 import google.generativeai as genai
 from google.colab import userdata
 api_key= userdata.get('SECRET_KEY')
@@ -130,6 +146,8 @@ model = genai.GenerativeModel(model_name='gemini-1.0-pro',
 
 
 **Iniciando o chat**
+
+
 chat = model.start_chat(history=[])
 
 #Melhorando a visualização
@@ -148,7 +166,11 @@ for message in chat.history:
                   display(to_markdown(f"**{message.role}**: {(message.parts[0]).text}"))
   print('___________________________________')
 
+  
+
 **Loop de interação**
+
+
 prompt = input('OLá! Sou a MIPA como posso te ajudar:')
 while prompt != "xau":
   response = chat.send_message(prompt)
