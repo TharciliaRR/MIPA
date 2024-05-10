@@ -55,7 +55,7 @@ Convidamos você a se juntar a nós nesta missão! 🙏
 !pip install -q -U google-generativeai
 
 
-* Configurações iniciais
+* **Configurações iniciais**
 
 
 import google.generativeai as genai
@@ -80,12 +80,12 @@ model = genai.GenerativeModel(model_name='gemini-1.0-pro',
                                   safety_settings=safety_settings,)
 
 
-* Iniciando o chat
+* **Iniciando o chat**
 
 
 chat = model.start_chat(history=[])
 
-* Melhorando a visualização
+* **Melhorando a visualização**
 
 
 #código disponível em https://ai.google.dev/tutorials/python_quickistart#import_packages
@@ -105,7 +105,7 @@ for message in chat.history:
 
   
 
-* Loop de interação
+* **Loop de interação**
 
 
 prompt = input('OLá! Sou a MIPA como posso te ajudar:')
