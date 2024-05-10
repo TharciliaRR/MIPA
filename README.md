@@ -28,6 +28,7 @@ Utiliza o modelo de linguagem Google Gemini para gerar respostas informativas e 
 
 # Acesso ao Projeto
 🛠️ O código fonte do projeto está disponível neste repositório GitHub .
+https://github.com/TharciliaRR/MIPA/blob/cb4816787cc5d98d7e2f600aa2498f1003b1d5ea/MIPA.ipynb
 
 # Tecnologias utilizadas
 **Python: Linguagem de programação principal.**
