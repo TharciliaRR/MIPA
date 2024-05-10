@@ -1,4 +1,4 @@
-# A first-level heading # 👋 MIPA - Chatbot de Etiqueta Social para Neuroatípicos 🧠
+# A first-level heading  👋 MIPA - Chatbot de Etiqueta Social para Neuroatípicos 🧠
 
 # Índice
 
