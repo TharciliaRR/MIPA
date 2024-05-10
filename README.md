@@ -1,5 +1,4 @@
 # 👋 MIPA - Chatbot de Etiqueta Social para Neuroatípicos 🧠
-![GitHub Org's stars](Estúdio Fotográfico Capa Facebook (1).png)
 
 # Índice
 
