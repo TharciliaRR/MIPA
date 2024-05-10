@@ -1,5 +1,5 @@
 # 👋 MIPA - Chatbot de Etiqueta Social para Neuroatípicos 🧠
-
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 # Índice
 
@@ -28,12 +28,12 @@ Fornece exemplos práticos de como se comportar em diferentes situações sociai
 Utiliza o modelo de linguagem Google Gemini para gerar respostas informativas e contextualmente relevantes.
 
 # Acesso ao Projeto
-O código fonte do projeto está disponível neste repositório GitHub .
+🛠️ O código fonte do projeto está disponível neste repositório GitHub .
 
 # Tecnologias utilizadas
-Python: Linguagem de programação principal.
-Google Gemini: Modelo de linguagem avançado para geração de texto.
-Google Colab: Ambiente de desenvolvimento utilizado para o projeto.
+**Python: Linguagem de programação principal.**
+**Google Gemini: Modelo de linguagem avançado para geração de texto.**
+**Google Colab: Ambiente de desenvolvimento utilizado para o projeto.**
 
 # Pessoas Contribuidoras
 [https://www.linkedin.com/in/tharciliarollemberg/]
